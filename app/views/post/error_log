@@ -1,0 +1,2 @@
+[07-Feb-2015 10:52:55 UTC] PHP Fatal error:  Call to undefined function route() in /home/protohot/public_html/laravel/app/views/post/listing.php on line 3
+[07-Feb-2015 16:14:50 UTC] PHP Notice:  Undefined variable: id in /home/protohot/public_html/laravel/app/views/post/single.php on line 1

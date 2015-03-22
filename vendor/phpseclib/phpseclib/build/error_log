@@ -1,0 +1,1 @@
+[09-Feb-2015 17:08:18 UTC] PHP Fatal error:  Class 'Sami\Store\ArrayStore' not found in /home/protohot/public_html/laravel/vendor/phpseclib/phpseclib/build/sami.conf.php on line 5

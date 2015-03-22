@@ -1,0 +1,2 @@
+[07-Feb-2015 16:01:05 UTC] PHP Fatal error:  Class 'Seeder' not found in /home/protohot/public_html/laravel/app/database/seeds/PostsTableSeeder.php on line 6
+[07-Feb-2015 16:01:29 UTC] PHP Fatal error:  Class 'Seeder' not found in /home/protohot/public_html/laravel/app/database/seeds/DatabaseSeeder.php on line 3

@@ -1,0 +1,35 @@
+ /* jssor slider thumbnail navigator skin 12 css */
+/*
+.jssort12 .p            (normal)
+.jssort12 .p:hover      (normal mouseover)
+.jssort12 .pav          (active)
+.jssort12 .pav:hover    (active mouseover)
+.jssort12 .pdn          (mousedown)
+*/
+.jssort12 .w, .jssort12 .phv .w
+{
+	cursor: pointer;
+	position: absolute;
+	WIDTH: 99px;
+	HEIGHT: 28px;
+	border: 1px solid gray;
+	top: 0px;
+	left: -1px;
+}
+.jssort12 .pav .w, .jssort12 .pdn .w
+{
+	border-bottom: 1px solid #fff;
+}
+.jssort12 .c
+{
+    color: #000;
+    font-size:13px;             	
+}
+.jssort12 .p .c, .jssort12 .pav:hover .c
+{
+	background-color:#eee;
+}
+.jssort12 .pav .c, .jssort12 .p:hover .c, .jssort12 .phv .c
+{
+	background-color:#fff;
+}

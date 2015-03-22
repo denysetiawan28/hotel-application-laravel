@@ -1,0 +1,4 @@
+[01-Feb-2015 17:50:40 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/protohot/public_html/laravel/bootstrap/start.php on line 14
+[02-Feb-2015 08:16:18 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/protohot/public_html/laravel/bootstrap/start.php on line 14
+[02-Feb-2015 15:49:19 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/protohot/public_html/laravel/bootstrap/start.php on line 14
+[08-Feb-2015 19:28:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/protohot/public_html/laravel/bootstrap/start.php on line 14

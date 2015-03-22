@@ -1,0 +1,19 @@
+[07-Feb-2015 13:13:12 UTC] PHP Notice:  Undefined index: argv in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 61
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 314
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 314
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 314
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 264
+[07-Feb-2015 13:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/protohot/public_html/laravel/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 287

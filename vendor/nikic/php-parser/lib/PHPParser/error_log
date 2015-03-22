@@ -1,0 +1,1 @@
+[09-Feb-2015 17:02:12 UTC] PHP Fatal error:  Interface 'PHPParser_Node' not found in /home/protohot/public_html/laravel/vendor/nikic/php-parser/lib/PHPParser/NodeAbstract.php on line 3

@@ -1,0 +1,1 @@
+[08-Feb-2015 15:36:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/protohot/public_html/laravel/vendor/nikic/php-parser/grammar/kmyacc.php.parser on line 19

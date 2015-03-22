@@ -1,0 +1,93 @@
+[25-Jan-2015 16:39:56 UTC] PHP Fatal error:  Class 'PDO' not found in /home/protohot/public_html/laravel/app/config/database.php on line 16
+[25-Jan-2015 18:12:28 UTC] PHP Fatal error:  Class 'input' not found in /home/protohot/public_html/laravel/app/routes.php on line 219
+[25-Jan-2015 18:18:53 UTC] PHP Fatal error:  Cannot use object of type Symfony\Component\HttpFoundation\ParameterBag as array in /home/protohot/public_html/laravel/app/routes.php on line 221
+[25-Jan-2015 18:26:49 UTC] PHP Fatal error:  Cannot use object of type Symfony\Component\HttpFoundation\ParameterBag as array in /home/protohot/public_html/laravel/app/routes.php on line 223
+[25-Jan-2015 18:29:50 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/protohot/public_html/laravel/app/routes.php on line 223
+[25-Jan-2015 18:30:21 UTC] PHP Fatal error:  Cannot use object of type Symfony\Component\HttpFoundation\ParameterBag as array in /home/protohot/public_html/laravel/app/routes.php on line 224
+[25-Jan-2015 18:37:04 UTC] PHP Fatal error:  Function name must be a string in /home/protohot/public_html/laravel/app/routes.php on line 223
+[25-Jan-2015 18:37:48 UTC] PHP Fatal error:  Function name must be a string in /home/protohot/public_html/laravel/app/routes.php on line 223
+[25-Jan-2015 19:18:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/protohot/public_html/laravel/app/routes.php on line 290
+[25-Jan-2015 19:19:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/protohot/public_html/laravel/app/routes.php on line 290
+[25-Jan-2015 19:21:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/protohot/public_html/laravel/app/routes.php on line 290
+[25-Jan-2015 21:47:20 UTC] PHP Parse error:  syntax error, unexpected '$dest' (T_VARIABLE) in /home/protohot/public_html/laravel/app/routes.php on line 86
+[26-Jan-2015 01:41:34 UTC] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 786432 bytes) in /home/protohot/public_html/laravel/vendor/composer/autoload_classmap.php on line 2053
+[26-Jan-2015 14:55:36 UTC] PHP Fatal error:  Class 'input' not found in /home/protohot/public_html/laravel/app/routes.php on line 85
+[26-Jan-2015 14:56:04 UTC] PHP Fatal error:  Class 'input' not found in /home/protohot/public_html/laravel/app/routes.php on line 85
+[26-Jan-2015 15:08:36 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: acc' in /home/protohot/public_html/laravel/app/routes.php:68
+Stack trace:
+#0 /home/protohot/public_html/laravel/app/routes.php(68): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/protohot/...', 68, Array)
+#1 [internal function]: {closure}()
+#2 /home/protohot/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Route.php(109): call_user_func_array(Object(Closure), Array)
+#3 /home/protohot/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(1028): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#4 /home/protohot/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(996): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#5 /home/protohot/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#6 /home/prot in /home/protohot/public_html/laravel/app/routes.php on line 68
+[26-Jan-2015 15:08:36 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/protohot/public_html/laravel/app/routes.php on line 68
+[27-Jan-2015 01:54:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/protohot/public_html/laravel/app/routes.php on line 293
+[27-Jan-2015 02:04:04 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/protohot/public_html/laravel/app/routes.php on line 275
+[27-Jan-2015 02:05:11 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/protohot/public_html/laravel/app/routes.php on line 275
+[28-Jan-2015 16:19:18 UTC] PHP Fatal error:  Call to undefined function substring() in /home/protohot/public_html/laravel/app/storage/views/1a12c55f5545883c516389b91c3f231b on line 16
+[28-Jan-2015 16:20:08 UTC] PHP Fatal error:  Call to undefined function substring() in /home/protohot/public_html/laravel/app/storage/views/1a12c55f5545883c516389b91c3f231b on line 16
+[28-Jan-2015 17:36:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/protohot/public_html/laravel/app/controllers/BooksController.php on line 722
+[11-Feb-2015 18:51:07 UTC] PHP Fatal error:  Unable to start pdo_dblib module in Unknown on line 0
+[11-Feb-2015 18:53:04 UTC] PHP Fatal error:  Call to undefined function path() in /home/protohot/public_html/app/routes.php on line 388
+[11-Feb-2015 18:53:35 UTC] PHP Fatal error:  Call to undefined function path() in /home/protohot/public_html/app/routes.php on line 388
+[22-Feb-2015 17:55:32 UTC] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 12288 bytes) in /home/protohot/public_html/vendor/composer/autoload_real.php on line 38
+[24-Feb-2015 15:38:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125566976 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 232
+[24-Feb-2015 15:40:30 UTC] PHP Fatal error:  Out of memory (allocated 41943040) (tried to allocate 33292288 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 232
+[24-Feb-2015 15:41:06 UTC] PHP Fatal error:  Out of memory (allocated 58195968) (tried to allocate 49545216 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 235
+[24-Feb-2015 15:41:58 UTC] PHP Fatal error:  Out of memory (allocated 98566144) (tried to allocate 89915392 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 233
+[24-Feb-2015 15:42:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125566976 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 232
+[24-Feb-2015 15:45:23 UTC] PHP Fatal error:  Out of memory (allocated 110624768) (tried to allocate 101974016 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 232
+[24-Feb-2015 15:47:34 UTC] PHP Fatal error:  Out of memory (allocated 118489088) (tried to allocate 109838336 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 235
+[24-Feb-2015 15:47:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125566976 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 232
+[24-Feb-2015 15:50:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125566976 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 233
+[24-Feb-2015 15:50:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125566976 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 233
+[24-Feb-2015 15:51:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125566976 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 233
+[24-Feb-2015 15:55:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125566976 bytes) in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 230
+[24-Feb-2015 16:06:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 234
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/json.so' - /opt/alt/php55/usr/lib64/php/modules/json.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/sockets.so' - /opt/alt/php55/usr/lib64/php/modules/sockets.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/dom.so' - /opt/alt/php55/usr/lib64/php/modules/dom.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo.so' - /opt/alt/php55/usr/lib64/php/modules/pdo.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/xmlreader.so' - /opt/alt/php55/usr/lib64/php/modules/xmlreader.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo_dblib.so' - /opt/alt/php55/usr/lib64/php/modules/pdo_dblib.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo_mysql.so' - /opt/alt/php55/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: php_pdo_register_driver in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo_odbc.so' - /opt/alt/php55/usr/lib64/php/modules/pdo_odbc.so: undefined symbol: php_pdo_register_driver in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo_pgsql.so' - /opt/alt/php55/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: php_pdo_register_driver in Unknown on line 0
+[24-Feb-2015 16:10:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo_sqlite.so' - /opt/alt/php55/usr/lib64/php/modules/pdo_sqlite.so: undefined symbol: php_pdo_register_driver in Unknown on line 0
+[24-Feb-2015 16:10:57 UTC] PHP Fatal error:  Call to undefined function Illuminate\Foundation\json_decode() in /home/protohot/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 186
+[24-Feb-2015 18:39:58 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/protohot/public_html/app/routes.php on line 506
+[24-Feb-2015 18:45:11 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/protohot/public_html/app/routes.php on line 511
+[24-Feb-2015 18:45:47 UTC] PHP Parse error:  syntax error, unexpected 'Destination' (T_STRING) in /home/protohot/public_html/app/routes.php on line 509
+[24-Feb-2015 18:49:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 258
+[24-Feb-2015 19:55:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/mysql.so' - libmysqlclient.so.18: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[25-Feb-2015 18:55:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/protohot/public_html/app/controllers/RoomsController.php on line 27
+[25-Feb-2015 19:04:52 UTC] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 786432 bytes) in /home/protohot/public_html/vendor/composer/autoload_classmap.php on line 2053
+[25-Feb-2015 20:33:53 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/protohot/public_html/app/controllers/FaqsController.php on line 40
+[26-Feb-2015 10:15:35 UTC] PHP Fatal error:  Class 'validator' not found in /home/protohot/public_html/app/controllers/AboutusController.php on line 41
+[26-Feb-2015 10:33:04 UTC] PHP Fatal error:  Call to undefined method Illuminate\Mail\Mailer::make() in /home/protohot/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 214
+[06-Mar-2015 17:18:54 UTC] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/protohot/public_html/app/controllers/TestimonialsController.php on line 14
+[06-Mar-2015 17:32:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/protohot/public_html/app/storage/views/754b7462e35e5867191b2d85722f296c on line 25
+[18-Mar-2015 16:29:58 UTC] PHP Fatal error:  Undefined class constant 'all' in /home/protohot/public_html/app/controllers/YourbooksController.php on line 43
+[18-Mar-2015 17:37:36 UTC] PHP Parse error:  syntax error, unexpected '$book' (T_VARIABLE) in /home/protohot/public_html/app/controllers/YourbooksController.php on line 69
+[18-Mar-2015 17:38:34 UTC] PHP Parse error:  syntax error, unexpected '$book' (T_VARIABLE) in /home/protohot/public_html/app/controllers/YourbooksController.php on line 69
+[18-Mar-2015 17:40:07 UTC] PHP Parse error:  syntax error, unexpected '$book' (T_VARIABLE) in /home/protohot/public_html/app/controllers/YourbooksController.php on line 69
+[18-Mar-2015 17:40:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/protohot/public_html/app/controllers/YourbooksController.php on line 78
+[18-Mar-2015 19:20:12 UTC] PHP Fatal error:  Class 'Carbon' not found in /home/protohot/public_html/app/controllers/YourbooksController.php on line 73
+[18-Mar-2015 19:30:53 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/protohot/public_html/app/controllers/YourbooksController.php on line 76
+[18-Mar-2015 19:42:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/protohot/public_html/app/controllers/YourbooksController.php on line 106
+[20-Mar-2015 17:39:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 292
+[20-Mar-2015 17:49:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/protohot/public_html/app/storage/views/1b0c7c198b755630efb7060c8211f11f on line 292
+[20-Mar-2015 18:31:08 UTC] PHP Parse error:  syntax error, unexpected '$arrive' (T_VARIABLE), expecting ';' or '{' in /home/protohot/public_html/app/controllers/BooksController.php on line 47
+[20-Mar-2015 18:44:50 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::get() in /home/protohot/public_html/app/controllers/BooksController.php on line 61
+[21-Mar-2015 07:24:05 UTC] PHP Fatal error:  Cannot use [] for reading in /home/protohot/public_html/app/routes.php on line 165
+[21-Mar-2015 07:24:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/protohot/public_html/app/routes.php on line 165
+[21-Mar-2015 07:24:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/protohot/public_html/app/routes.php on line 165
+[21-Mar-2015 07:36:56 UTC] PHP Fatal error:  Cannot use [] for reading in /home/protohot/public_html/app/routes.php on line 166
+[21-Mar-2015 07:49:49 UTC] PHP Fatal error:  Cannot use [] for reading in /home/protohot/public_html/app/routes.php on line 166
+[21-Mar-2015 08:48:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/protohot/public_html/app/routes.php on line 166
+[21-Mar-2015 08:48:25 UTC] PHP Fatal error:  Cannot use [] for reading in /home/protohot/public_html/app/routes.php on line 166
+[22-Mar-2015 13:07:26 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/protohot/public_html/app/storage/views/a4f51b7da775dd2c47bc0e56032c743f on line 190
+[22-Mar-2015 13:07:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/protohot/public_html/app/storage/views/a4f51b7da775dd2c47bc0e56032c743f on line 190
+[22-Mar-2015 13:26:12 UTC] PHP Parse error:  syntax error, unexpected '$travel' (T_VARIABLE) in /home/protohot/public_html/app/controllers/TravelsController.php on line 35

@@ -1,0 +1,37 @@
+.carousel-control.left, .carousel-control.right {
+    background-image:none !important;
+}
+.carousel-control {
+    color:#fff;
+    top:40%;
+    color:#428BCA;
+    bottom:auto;
+    padding-top:4px;
+    width:30px;
+    height:30px;
+    text-shadow:none;
+    opacity:1;
+}
+.carousel-control:hover {
+    color: #d9534f;
+}
+.carousel-control.left, .carousel-control.right {
+    background-image:none !important;
+}
+.carousel-control.right {
+    left:auto;
+    right:-32px;
+}
+.carousel-control.left {
+    right:auto;
+    left:-32px;
+}
+.carousel-inner .thumbnail {
+    margin-bottom:0;
+    border-bottom-left-radius:0;
+    border-bottom-right-radius:0;
+}
+.carousel-inner .caption {
+    background:#ddd;
+    padding: 10px;
+}

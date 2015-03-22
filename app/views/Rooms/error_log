@@ -1,0 +1,2 @@
+[07-Feb-2015 13:47:33 UTC] PHP Notice:  Undefined variable: rooms in /home/protohot/public_html/laravel/app/views/Rooms/show.blade.php on line 63
+[07-Feb-2015 13:47:33 UTC] PHP Fatal error:  Call to a member function getPicture() on a non-object in /home/protohot/public_html/laravel/app/views/Rooms/show.blade.php on line 63

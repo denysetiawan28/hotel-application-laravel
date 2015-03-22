@@ -1,0 +1,1 @@
+[09-Feb-2015 17:08:53 UTC] PHP Fatal error:  Class 'Swift_Preferences' not found in /home/protohot/public_html/laravel/vendor/swiftmailer/swiftmailer/lib/preferences.php on line 9

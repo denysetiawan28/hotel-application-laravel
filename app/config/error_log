@@ -1,0 +1,17 @@
+[01-Feb-2015 00:52:14 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/app.php on line 142
+[01-Feb-2015 11:53:54 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/app.php on line 142
+[01-Feb-2015 12:36:42 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/cache.php on line 31
+[01-Feb-2015 13:44:55 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/session.php on line 47
+[01-Feb-2015 18:51:23 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/app.php on line 142
+[01-Feb-2015 19:09:09 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/cache.php on line 31
+[01-Feb-2015 20:06:44 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/session.php on line 47
+[01-Feb-2015 21:49:33 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/session.php on line 47
+[02-Feb-2015 01:05:18 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/app.php on line 142
+[02-Feb-2015 01:25:05 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/cache.php on line 31
+[02-Feb-2015 04:03:56 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/session.php on line 47
+[02-Feb-2015 07:09:58 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/cache.php on line 31
+[02-Feb-2015 10:29:32 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/session.php on line 47
+[02-Feb-2015 23:32:23 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/cache.php on line 31
+[05-Feb-2015 04:31:54 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/session.php on line 47
+[07-Feb-2015 16:41:37 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/app.php on line 142
+[07-Feb-2015 17:36:00 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/protohot/public_html/laravel/app/config/session.php on line 47

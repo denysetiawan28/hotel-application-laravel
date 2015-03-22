@@ -1,0 +1,1 @@
+[09-Feb-2015 19:40:57 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Application' not found in /home/protohot/public_html/laravel/vendor/classpreloader/classpreloader/src/ClassPreloader/Application.php on line 12

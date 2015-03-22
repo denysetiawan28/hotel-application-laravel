@@ -1,0 +1,1 @@
+[09-Feb-2015 16:57:03 UTC] PHP Fatal error:  Class 'Patchwork\PHP\Shim\Normalizer' not found in /home/protohot/public_html/laravel/vendor/patchwork/utf8/class/Normalizer.php on line 16

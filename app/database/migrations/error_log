@@ -1,0 +1,4 @@
+[07-Feb-2015 12:36:40 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/protohot/public_html/laravel/app/database/migrations/2014_12_14_081541_create_post_table.php on line 6
+[07-Feb-2015 15:42:28 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/protohot/public_html/laravel/app/database/migrations/2014_12_14_075240_add_permission_column_to_users_table.php on line 6
+[07-Feb-2015 16:47:30 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/protohot/public_html/laravel/app/database/migrations/2014_12_14_090637_create_categories_table.php on line 6
+[07-Feb-2015 18:05:37 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/protohot/public_html/laravel/app/database/migrations/2014_12_14_090827_create_category_users_table.php on line 6

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+    <head>
+    
+    
+    
+    
+    
+        <meta charset="utf-8">
+        <title> 404-Not-Found </title>
+        <meta name="description" content="Worthy a Bootstrap-based, Responsive HTML5 Template">
+        <meta name="author" content="htmlcoder.me">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="images/favicon.ico">
+        <link media="all" type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext">
+
+        
+        <link media="all" type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:700,400,300">
+
+        <link media="all" type="text/css" rel="stylesheet" href="http://protoagent.asia/project/bootstrap/css/bootstrap.css">
+
+        <link media="all" type="text/css" rel="stylesheet" href="http://protoagent.asia/project/fonts/font-awesome/css/font-awesome.css">
+
+        <link media="all" type="text/css" rel="stylesheet" href="http://protoagent.asia/project/css/animations.css">
+
+        <!-- Worthy core CSS file -->
+        <link media="all" type="text/css" rel="stylesheet" href="http://protoagent.asia/project/css/style.css">
+
+        <!-- Custom css --> 
+        
+         
+
+         <link media="all" type="text/css" rel="stylesheet" href="http://protoagent.asia/project/css/jquery-ui.css">
+
+         <link media="all" type="text/css" rel="stylesheet" href="http://protoagent.asia/project/css/custom.css">
+
+    </head>
+
+    <body class="no-trans">
+        <!-- scrollToTop -->
+        <!-- ================ -->
+        <div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+
+        <!-- header start -->
+        <!-- ================ --> 
+        <header class="header fixed clearfix navbar navbar-fixed-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+
+                        <!-- header-left start -->
+                        <!-- ================ -->
+                        <div class="header-left clearfix">
+
+                            <!-- logo -->
+                            <div class="logo smooth-scroll">
+                                <a href=" http://protoagent.asia/project "></a>
+                            </div>
+
+                            <!-- name-and-slogan -->
+                            <div class="site-name-and-slogan smooth-scroll">
+                                <div class="site-name"><a href=" http://protoagent.asia/project ">Mandiri Travel</a></div>
+                                <div class="site-slogan">Touring & Travel Services</div>
+                            </div>
+
+                        </div>
+                        <!-- header-left end -->
+
+                    </div>
+                    <div class="col-md-8">
+
+                        <!-- header-right start -->
+                        <!-- ================ -->
+                        <div class="header-right clearfix">
+
+                            <!-- main-navigation start -->
+                            <!-- ================ -->
+                            <div class="main-navigation animated">
+
+                                <!-- navbar start -->
+                                <!-- ================ -->
+                                <nav class="navbar navbar-default" role="navigation">
+                                    <div class="container-fluid">
+
+                                        <!-- Toggle get grouped for better mobile display -->
+                                        <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                                                <span class="sr-only">Toggle navigation</span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                                <span class="icon-bar"></span>
+                                            </button>
+                                        </div>
+
+                                        <!-- Collect the nav links, forms, and other content for toggling -->
+                                        <div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
+                                            <ul class="nav navbar-nav navbar-right">
+                                                <li ><a href=" http://protoagent.asia/project?.#banner ">Home</a></li>
+                                                <li ><a href=" http://protoagent.asia/project/package ">Package</a></li>
+                                                <li ><a href=" http://protoagent.asia/project/destination ">Destination</a></li>
+                                                <li ><a href=" http://protoagent.asia/project/hotel ">Hotel</a></li>
+                                                <li ><a href="http://protoagent.asia/project/promo">Promo</a></li>
+
+                                                <li><a href="#about">About</a></li>
+                                                
+
+                                                
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </nav>
+                                <!-- navbar end -->
+
+                            </div>
+                            <!-- main-navigation end -->
+
+                        </div>
+                        <!-- header-right end -->
+
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- header end -->
+
+        <!-- banner start -->
+        <!-- ================ -->
+        
+        <!-- banner end -->
+
+        <!-- section start -->
+        <!-- ================ -->
+        <div id="banner" class="banner">
+            <div class="banner-image"></div>
+            <div class="banner-caption">
+                
+            </div>
+        </div>
+        
+                        <div class="maincontent">
+        
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="error-template">
+                <h1>
+                    Oops!</h1>
+                <h2>
+                    404 Not Found</h2>
+                <div class="error-details">
+                    Sorry, an error has occured, Requested page not found!
+                </div>
+                <div class="error-actions">
+                    <a href="http://protoagent.asia/project" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-home"></span>
+                        Take Me Home </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                </div>
+        <div class="section default-bg space blue">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="text-center" id="about">Let's Work Together!</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- section end -->
+
+        <!-- footer start -->
+        <!-- ================ -->
+        <footer id="footer">
+
+            <!-- .footer start -->
+            <!-- ================ -->
+            <div class="navbar navbar-inverse" style="background-color:#2a2a2a;padding:10px;color:white;clear:both;margin-bottom:0px;">
+	            <div class="contact">
+			      <div class="col-md-4">
+			        <h3 style="color:white;">about Mandiri Tour</h3>
+			        <p>Berdiri sejak 19 Juli 1967, PT Mandiri World Wide dipercaya sebagai salah satu travel agent terbesar di Indonesia. Dibawah nama brand mandiri tour, kami memiliki lebih dari 60 cabang yang tersebar kota-kota besar di Indonesia Indonesia. Setiap tahunnya beberapa penghargaan bergensi berhasil didapatkan oleh mandiri tour, diantaranya adalah ‘Top Travel Agent’ oleh beberapa maskapai penerbangan terkemuka dunia. </p>
+			        <p><a href="http://www.dwidayatravel.com/about-us">more</a></p>
+			      </div>
+			    
+			      
+			      <div class="col-md-4">
+			        <h3 style="color:white;">Quick Links</h3>
+			        <div class="row links"> 
+			          <div class="col-md-12">
+			            <ul>
+			              <li class="col-md-6"><a href="http://protoagent.asia/project/about">About us</a></li>
+			              <li class="col-md-6"><a href="http://protoagent.asia/project/syarat-ketentuan">Syarat & Ketentuan</a></li>
+			              <li class="col-md-6"><a href="http://protoagent.asia/project/kebijakan-privasi">Kebijakan Privasi</a></li>
+			              <li class="col-md-6"><a href="http://protoagent.asia/project/cara-pembayaran">Cara Pembayaran</a></li> 
+			              <li class="col-md-6"><a href="http://protoagent.asia/project/faq">FaQ</a></li>  
+			            </ul>
+			          </div>
+			        </div>
+			      </div>
+			      
+			      <div class="col-md-2">
+			        <h3 style="color:white;">destinations</h3>
+			        <div class="row links destination">
+			          <div class="col-md-12">
+			            <ul>
+			              <li><a href="http://www.dwidayatravel.com/destination-guide/region/asia/?cd=AS">Asia</a></li>
+			              <li><a href="http://www.dwidayatravel.com/destination-guide/region/australia/?cd=OC">Australia</a></li>
+			              <li><a href="http://www.dwidayatravel.com/destination-guide/region/europe/?cd=EU">Europe</a></li>
+			              <li><a href="http://www.dwidayatravel.com/destination-guide/region/africa/?cd=AF">Africa</a></li>
+			              <li><a href="http://www.dwidayatravel.com/destination-guide/region/north-america/?cd=NA">North America</a></li>
+			              <li><a href="http://www.dwidayatravel.com/destination-guide/region/south-america/?cd=SA">South America</a></li>           
+			            </ul>
+			          </div>
+			        </div>
+			      </div>
+			      <div class="col-md-2">
+			        <h3>follow us</h3>
+			        
+			    </div>
+	    
+				</div>
+			</div>
+		<!--<script type="text/javascript">
+			$(".navbar-fixed-top").autoHidingNavbar();
+		</script> -->
+
+            <!-- .subfooter end -->
+
+        </footer>
+        <!-- footer end -->
+
+        <!-- JavaScript files placed at the end of the document so the pages load faster
+        ================================================== -->
+        <!-- Jquery and Bootstap core js files -->
+         <script src="http://protoagent.asia/project/js/jquery-1.11.1.min.js"></script>
+
+	<script src="http://protoagent.asia/project/js/jquery-ui.js"></script>
+
+    <script src="http://protoagent.asia/project/js/bootstrap.js"></script>
+
+        
+    <script src="http://protoagent.asia/project/js/autohidingnavbar.js"></script>
+
+
+    
+        <!-- Modernizr javascript -->
+       
+    <script src="http://protoagent.asia/project/plugins/modernizr.js"></script>
+    
+        <!-- Isotope javascript -->
+    <script src="http://protoagent.asia/project/plugins/isotope/isotope.pkgd.min.js"></script>
+    
+        <!-- Backstretch javascript -->
+    <script src="http://protoagent.asia/project/plugins/jquery.backstretch.min.js"></script>
+
+            <!-- Appear javascript -->
+    <script src="http://protoagent.asia/project/plugins/jquery.appear.js"></script>
+
+            <!-- Initialization of Plugins -->
+    <script src="http://protoagent.asia/project/js/template.js"></script>
+
+            <!-- Custom Scripts -->
+    <script src="http://protoagent.asia/project/js/custom.js"></script>
+
+
+	<script>
+     
+     
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+
+    </body>
+</html>

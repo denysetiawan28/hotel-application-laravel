@@ -1,0 +1,4 @@
+[07-Feb-2015 16:30:11 UTC] PHP Notice:  Undefined variable: i in /home/protohot/public_html/laravel/app/views/Books/index.blade.php on line 101
+[07-Feb-2015 16:30:11 UTC] PHP Notice:  Undefined variable: countOffer in /home/protohot/public_html/laravel/app/views/Books/index.blade.php on line 127
+[07-Feb-2015 16:30:11 UTC] PHP Notice:  Undefined variable: countDetail in /home/protohot/public_html/laravel/app/views/Books/index.blade.php on line 127
+[07-Feb-2015 16:30:11 UTC] PHP Warning:  Division by zero in /home/protohot/public_html/laravel/app/views/Books/index.blade.php on line 127

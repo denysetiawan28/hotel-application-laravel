@@ -1,0 +1,2 @@
+[07-Feb-2015 13:52:09 UTC] PHP Notice:  Undefined variable: facility in /home/protohot/public_html/laravel/app/views/Facilities/show.blade.php on line 31
+[07-Feb-2015 13:52:09 UTC] PHP Fatal error:  Call to a member function getPicture() on a non-object in /home/protohot/public_html/laravel/app/views/Facilities/show.blade.php on line 31

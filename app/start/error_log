@@ -1,0 +1,4 @@
+[01-Feb-2015 12:59:10 UTC] PHP Fatal error:  Class 'ClassLoader' not found in /home/protohot/public_html/laravel/app/start/global.php on line 14
+[01-Feb-2015 19:29:10 UTC] PHP Fatal error:  Class 'ClassLoader' not found in /home/protohot/public_html/laravel/app/start/global.php on line 14
+[02-Feb-2015 01:48:43 UTC] PHP Fatal error:  Class 'ClassLoader' not found in /home/protohot/public_html/laravel/app/start/global.php on line 14
+[02-Feb-2015 10:02:06 UTC] PHP Fatal error:  Class 'ClassLoader' not found in /home/protohot/public_html/laravel/app/start/global.php on line 14
